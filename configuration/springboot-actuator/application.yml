@@ -1,0 +1,4 @@
+spring:
+  example:
+    actuator:
+      property: property value from git repository
